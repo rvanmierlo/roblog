@@ -1,3 +1,3 @@
-[submodule "themes/hugo-base"]
-	path = themes/hugo-base
+[submodule "themes/hugobase"]
+	path = themes/hugobase
 	url = https://github.com/crakjie/hugo-base-theme.git
