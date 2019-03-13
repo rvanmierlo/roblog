@@ -1,7 +1,7 @@
 baseURL = "https://www.kulert.nl/"
 languageCode = "en-us"
 title = "Blog of Rob van Mierlo"
-theme = "hugobase"
+theme = "assembly"
 [params]
   description = "I <3 making web site"
   mainIcon = "/img/hugo.png"
