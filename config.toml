@@ -1,4 +1,4 @@
-baseURL = "https://www.kenzodus.nl/"
+baseURL = "https://www.robvanmierlo.dev/"
 languageCode = "en-us"
 title = "Blog of Rob van Mierlo"
 theme = "assembly"
