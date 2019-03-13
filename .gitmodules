@@ -4,3 +4,6 @@
 [submodule "themes/assembly"]
 	path = themes/assembly
 	url = https://github.com/salsysd/hugo-assembly.git
+[submodule "themes/casper"]
+	path = themes/casper
+	url = https://github.com/vjeantet/hugo-theme-casper.git
