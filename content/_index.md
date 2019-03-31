@@ -1,1 +1,1 @@
-Dit is de homepage.
+![Portret](/Vincent1.jpg)

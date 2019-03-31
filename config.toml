@@ -1,15 +1,15 @@
 baseURL = "https://www.robvanmierlo.dev/"
 languageCode = "en-us"
-title = "Blog of Rob van Mierlo"
+title = "Vincent van Gogh"
 theme = "casper"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Inhoud"
     weight = 1
     url  = "/posts/"
 
 [params]
-  description = "I <3 making web site"
+  description = "Mijn werkstuk over de beroemde schilder"
   mainIcon = "/img/hugo.png"
 
 [[params.social]]
