@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Blog of Rob van Mierlo"
 theme = "casper"
 
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+
 [params]
   description = "I <3 making web site"
   mainIcon = "/img/hugo.png"
